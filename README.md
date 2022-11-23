@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rustem
+- 👀 I’m Software Developer
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on challenging projects
+- 📫 https://rustem-garr.github.io/
