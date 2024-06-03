@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rustem
-- 👀 I’m Software Developer
-- 🌱 I’m currently learning ML
+- 👀 I’m Computer Engineer & Fullstack Developer
+- 🌱 I am currently working on ML projects (predictive modeling, natural language processing, computer vision)
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 https://rustem-garr.github.io/
