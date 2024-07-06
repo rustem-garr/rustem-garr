@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Rustem
-- 👀 I’m Software Engineer
+- 👨‍💻 I’m Software Engineer
 - 🌱 I’m currently working on ML projects (predictive modelling, audio preprocessing, computer vision)
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 https://rustem-garr.github.io
