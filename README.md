@@ -1,6 +1,5 @@
 - 👋 Hello, I’m Rustem
 - 👨‍💻 I’m Software Engineer
-- 🌱 I’m looking to collaborate on challenging projects
 - 📫 https://rustem-garr.github.io
 
 
