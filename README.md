@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Rustem
-- 👨‍💻 I’m Software Engineer
+- 👨‍💻 Software Engineer
 - 📫 https://rustem-garr.github.io
 
 
